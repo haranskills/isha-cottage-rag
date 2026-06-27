@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment variables — never commit API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# RAGAS output
+ragas_results.txt
+
+# uv
+.python-version
