@@ -169,6 +169,18 @@ python -m tests.eval_ragas
 
 ---
 
+## 📸 Demo
+
+![Cancellation Policy](assets/demo1.jpg)
+
+![Family Rooms](assets/demo2.jpg)
+
+![Booking Query](assets/demo3.jpg)
+
+### RAGAS Evaluation
+![RAGAS Results](assets/ragas_results.jpg)
+
+
 ## 👤 Author
 
 **Hariharan**
